@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='resources/firstdraft.css' type:"txt/css" rel="stylesheet" media='screen'>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#coding">Coding Work</a></li>
+        <li><a href="#art">Art Work</a></li>
+        <li><a href="#social">Follow My Work</a></li>
+        <li><a href="#resume">Resume</a></li>
+      </ul>
+    </nav>
+    <header>
+      <h1>It's Me...<s>Amario</s> Amara!</h1>
+        <img src="resources\images\faceicon.jpg" alt="A cartoon version of my face could not load">
+    </header>
+    <main>
+      <section><a href="intro"></a>
+        <article>
+          <h2>Ionknow Overview?<h2>
+            <p>These are a bunch of words about me</p>
+        </article>
+      </section>
+      <section id="coding">
+      <!--#insert sites and projects along with languages used and links-->
+        <article>
+          <h2>Coding Things</h2>
+            <p>I code in:</p>
+              <ol>
+                <li>Bonk, Tronk, HTML</li>
+                <li></li>
+              </ol>
+        </article>
+      </section>
+      <section id="art">
+      <!--#maybe a scroller of my greatest hits along with a blurb-->
+        <article>
+        <h2>Art Things</h2>
+          <p>A blurb about art or something. Like what I use and stuff</p>
+      </article>
+      <!--#links to all art places and commission-y places-->
+      </section>
+      <section id="social">
+      <!--#links to all socials and what I do there-->
+      <article>
+        <h2>Social Media Things</h2>
+      </article>
+      </section>
+      <section id ="resume">
+      <!--#downloadable copy of resume-->
+        <h3>My Resume</h3>
+          <p>A downloadable PDF of my resume can be found <link href="">here</link></p>
+      </section>
+    </main>
+  </body>
+<footer>
+  <p>I did it I guess</p>
+</footer>
+</html>

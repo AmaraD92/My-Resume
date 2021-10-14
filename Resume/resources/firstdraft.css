@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'orangekid';
+  src: local('fonts/orange-kid/orangekid.tff') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-family: 'orangekid';
+  background-color: #FFFFCC;
+}
+
+nav{
+  background-color: #B3BFFF !important;
+  font-size: 20px;
+  text-align: center;
+  border: 5px;
+  border: 6px solid #1C6EA4;
+}
+
+nav li{
+  display: inline;
+  list-style-type: none;
+  margin: 5px;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  height: 100px;
+
+}
+
+#coding{
+
+}
+
+#art{
+
+}
+
+#social{
+
+}
+
+#resume{
+
+}
+
+footer{
+  background-color: #FFCCDD;
+  font-size: 15px;
+  text-align: center;
+}
